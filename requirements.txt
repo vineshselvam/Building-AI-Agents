@@ -1,1 +1,9 @@
 ipykernel
+dotenv
+langgraph
+langchain
+langchain_community
+langchain_openai
+langchain_core
+youtube-search-python
+youtube-search
